@@ -1,0 +1,38 @@
+.all {
+	width: 1024px;/*Largura*/
+	height: 650px;/*Altura*/
+	margin: auto;  /*Pra não deixar tudo desorganizado, concentrar automatico, alinhar automaticamente, sem usar margin's*/
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 	/*Código ->Sombreamento<- da caixa do meio*/ 
+	padding: 0 20px;
+}
+
+.nomeranking{
+	color: orange;
+	font-size: 40px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+.introducao{
+	color:gray;
+	font-size:17px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+.hr{
+	width:70%;
+}
+
+.bthome{
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: 200px;
+	margin-left: 850px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.bthome:hover{
+	background-color: #23527c;
+}
+

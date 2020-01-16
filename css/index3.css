@@ -1,0 +1,81 @@
+.all {
+	width: 1024px;
+	height: 650px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+}
+
+.corpo{
+	text-align:center;
+	width: 700px;
+	height: 225px;
+	margin: auto; 
+	background: #ffffff;
+	padding: 0 20px;
+}
+
+/*BOTÕES*/
+.controlebt{
+	margin-left: -195px;
+	margin-top: 110px;
+}
+.btvoltar{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -80px;
+	margin-left: 920px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.btvoltar:hover{
+	background-color: #23527c;
+}
+
+.btcontinuar{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -80px;
+	margin-left: 1020px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.btcontinuar:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOTÕES*/
+
+
+/*TEXTOS*/
+
+#h1{
+color: orange;
+font-size: 40px;
+font-family: 'Helvetica Neue', sans-serif;
+
+}
+#hr{
+width:70%;
+}
+
+.rh{
+	color:gray;
+	font-size:19px;
+	font-family: 'Helvetica Neue', sans-serif;
+	text-align: justify;
+	width: 700px;
+}
+
+
+/*FIM TEXTOS*/
+

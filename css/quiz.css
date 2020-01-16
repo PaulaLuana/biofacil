@@ -1,0 +1,47 @@
+.all {
+	width: 1024px;
+	height:2300px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+}
+.controll{
+margin-left: 100px;
+margin-top: 50px;
+}
+	/*BOTÕES*/
+.bthome{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -10px;
+	margin-left: 900px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.bthome:hover{
+	background-color: #23527c;
+}
+
+.btlogout{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -40px;
+	margin-left: 780px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.btlogout:hover{
+	background-color: #23527c;
+}
+
+
+/*FIM DOS BOTÕES*/

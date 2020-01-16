@@ -1,0 +1,42 @@
+.all {
+	width: 1024px;/*Largura*/
+	height: 700px;/*Altura*/
+	margin: auto;  /*Pra não deixar tudo desorganizado, concentrar automatico, alinhar automaticamente, sem usar margin's*/
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 	/*Código ->Sombreamento<- da caixa do meio*/ 
+	padding: 0 20px;
+}
+
+.bthome{
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: 20px;
+	margin-left: 850px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.bthome:hover{
+	background-color: #23527c;
+}
+
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #f2f7fa;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}

@@ -1,0 +1,45 @@
+/*MENU*/
+
+nav {	
+	    margin-top:0px;
+		margin-left:-40px;
+		position:relative;
+		z-index: 9999;
+		
+		
+		
+}
+	nav ul {
+		font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+	nav ul > li {
+			position:relative;
+			display: inline-block;
+			margin-right: -5px;
+}
+	nav ul li > a {
+
+		   width: 130px;
+		   text-decoration:none;	
+		   margin:2px;
+		   padding:px 18px;
+		   display:block;
+		   color: #fff;
+		   text-align: center;
+		   
+}
+
+	nav li:hover a {
+		color: black;
+}
+
+	
+	nav .menu li a{
+		background-color: #fe8f0a;
+}
+	nav .menu li:hover a{
+		background-color: #fabe7d;
+
+}
+
+/*FIM DO MENU*/

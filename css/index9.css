@@ -1,0 +1,111 @@
+.all {
+	width: 1024px;
+	height:900px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+	}
+
+
+#h1{
+color: orange;
+font-size: 40px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+#hr{
+width:70%;
+}
+#h2{
+color:gray;
+font-size:21px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+#pele {
+width: 450px;
+height: 400px;	
+}
+	/*BOTÕES*/
+#bt0{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: 92px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt0:hover{
+	background-color: #23527c;
+}
+
+#bt1{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: 143px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt1:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOTÕES*/
+
+
+/*EXPLICAÇÃO DA IMAGEM PESSOAS*/
+#legenda{
+	position: absolute;
+	margin-top: -300px;
+	margin-left: 480px;
+}
+#um {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+#dois{
+	font-family: 'Helvetica Neue', sans-serif;
+} 
+#tres{
+	font-family: 'Helvetica Neue', sans-serif;
+} 
+#quatro{
+	font-family: 'Helvetica Neue', sans-serif;
+}
+#brancos{
+	font-family: 'Helvetica Neue', sans-serif;	
+}
+#cinco{
+color: green;
+margin-top: -19px;
+margin-left: 90px;
+}
+#seis{
+color: green;
+margin-top: -19px;
+margin-left: 180px;
+}
+#sete{
+color: green;
+margin-top: -19px;
+margin-left: 165px;
+}
+#oito{
+color: green;
+margin-top: -19px;
+margin-left: 166px;
+}
+#nove{
+color: green;
+margin-top: -19px;
+margin-left: 97px;
+}
+
+/* FIM EXPLICAÇÃO DA IMAGEM PESSOAS*/

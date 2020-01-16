@@ -1,0 +1,61 @@
+.all {
+	width: 1024px;/*Largura*/
+	height: 650px;/*Altura*/
+	margin: auto;  /*Pra não deixar tudo desorganizado, concentrar automatico, alinhar automaticamente, sem usar margin's*/
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 	/*Código ->Sombreamento<- da caixa do meio*/ 
+	padding: 0 20px;
+}
+.posicao{
+	margin-top: -90px;
+}
+#h1{
+color: orange;
+font-size: 40px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+.h2{
+	color:gray;
+	font-size:17px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+
+}
+#hr{
+width:70%;
+}
+
+
+	/*BOTÕES*/
+#bt0{
+		position: relative;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	   	margin-top: -40px;
+	    margin-left: 900px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt0:hover{
+	background-color: #23527c;
+}
+
+#bt1{
+		position: relative;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    	margin-top: -30px;
+	   	margin-left: 800px;
+	    	width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt1:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOTÕES*/

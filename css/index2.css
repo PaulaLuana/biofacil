@@ -1,0 +1,83 @@
+
+.all {
+	width: 1024px;
+	height: 650px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+}
+
+#guia {
+
+position: absolute;
+margin-left:200px;
+margin-top:-250px;
+width: 150px;
+height: 220px;	
+}
+
+
+/*BOTÕES*/
+.btvoltar{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -80px;
+	margin-left: 920px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.btvoltar:hover{
+	background-color: #23527c;
+}
+
+.btcontinuar{
+	position: relative;
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	margin-top: -80px;
+	margin-left: 1020px;
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.btcontinuar:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOTÕES*/
+
+
+/*TEXTOS*/
+
+#h1{
+color: orange;
+font-size: 40px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+
+}
+#hr{
+width:70%;
+}
+
+.termos{
+	color: gray;
+	font-size: 19px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+	text-align:justify;
+	width: 900px;
+	height: 500px;
+	margin: auto; 
+	background: #ffffff;
+	padding: 0 20px;
+}
+
+/*FIM TEXTOS*/
+
+

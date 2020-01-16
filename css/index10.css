@@ -1,0 +1,72 @@
+.all {
+	width: 1024px;
+	height:1000px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+	}
+	#guia {
+margin-left:100px;
+margin-top:50px; 
+width:20%;
+}
+.artigos {
+	vertical-align: top;
+	display: inline-block;
+	position: absolute;
+	
+	margin: auto;
+	background-color:;
+	margin-top: 180px;
+	margin-left: -5%;
+}
+.artigos fieldset {
+	color:#2c82b7;
+	padding: 2px 5px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+	font-size: 20px;
+	margin: 30px 50px;
+	width: 300px;
+	height: 300px;
+	vertical-align: top;
+	border: 0px;
+	border-color:orange; 
+}
+	/*BOTÕES*/
+#bt0{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: 80px;
+	    margin-left: 800px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt0:hover{
+	background-color: #23527c;
+}
+
+#bt1{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: 80px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+	#cert{
+margin-left:200px;
+width: 60%;
+height:40%;
+margin-top:5%;
+ 
+}
+/*FIM DOS BOTÕES*/

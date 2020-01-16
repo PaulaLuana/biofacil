@@ -1,0 +1,138 @@
+	
+.all {
+	width: 1024px;/*Largura*/
+	height: 650px;/*Altura*/
+	margin: auto;  /*Pra não deixar tudo desorganizado, concentrar automatico, alinhar automaticamente, sem usar margin's*/
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 	/*Código ->Sombreamento<- da caixa do meio*/ 
+	padding: 0 20px;
+}
+
+.guia {
+	width: 200px;
+	height: 400px;
+	margin-left: 250px;
+	/*margin-top: 50px; */
+}
+
+/*MARCUS COOKIE*/
+.artigos {
+
+	vertical-align: top;
+	display: inline-block;
+	position: absolute;
+	
+	margin: auto;
+	background-color:;
+	margin-top: 100px;
+	/*margin-left: 100px;*/
+}
+.artigos fieldset {
+	color:#2c82b7;
+	padding: 2px 5px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+	font-size: 20px;
+	margin: 30px 50px;
+	width: 300px;
+	height: 300px;
+	vertical-align: top;
+	border: 0px;
+	border-color:orange; 
+}
+
+/*FIM MARCUS COOKIE*/
+
+/*TITULO E ASSUNTO*/
+
+.nomesite{
+	color: orange;
+	font-size: 40px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+.introducao{
+	color:gray;
+	font-size:17px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+.hr{
+	width:70%;
+}
+
+/*FIM TITULO E ASSUNTO*/
+
+/*BOTÃO*/
+
+.bt0{
+	background: #337ab7;
+	color: #fff;
+	font-size: 17px;
+	font-family: 'Helvetica Neue', sans-serif;
+	/*margin-top: -100px;
+	margin-left: 50px;*/
+	width: 100px;
+	height:40px;
+	border-radius: 9px;
+}
+.bt0:hover{
+	background-color: #23527c;
+}
+#bt1{
+width:200px;
+}
+#bt2{
+width:200px;
+}
+#bt3{
+width:200px;
+}
+#bt4{
+width:200px;
+}
+
+/*FIM DO BOTÃO*/
+
+/*MENU*/
+
+nav {	
+	    margin-top:0px;
+		margin-left:-40px;
+		position:relative;
+		z-index: 9999;
+		
+		
+		
+}
+	nav ul {
+		font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+	nav ul > li {
+			position:relative;
+			display: inline-block;
+			margin-right: -5px;
+}
+	nav ul li > a {
+
+		   width: 130px;
+		   text-decoration:none;	
+		   margin:2px;
+		   padding:px 18px;
+		   display:block;
+		   color: #fff;
+		   text-align: center;
+		   
+}
+
+	nav li:hover a {
+		color: black;
+}
+
+	
+	nav .menu li a{
+		background-color: #fe8f0a;
+}
+	nav .menu li:hover a{
+		background-color: #fabe7d;
+
+}
+
+/*FIM DO MENU*/

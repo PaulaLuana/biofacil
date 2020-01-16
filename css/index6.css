@@ -1,0 +1,103 @@
+.all {
+	width: 1024px;/*Largura*/
+	height: 650px;/*Altura*/
+	margin: auto;  /*Pra não deixar tudo desorganizado, concentrar automatico, alinhar automaticamente, sem usar margin's*/
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 	/*Código ->Sombreamento<- da caixa do meio*/ 
+	padding: 0 20px;
+}
+.nomesite{
+	color: orange;
+	font-size: 40px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+
+.artigos {
+	vertical-align: top;
+	display: inline-block;
+	position: absolute;
+	margin: auto;
+	background-color:;
+	margin-top: 200px;
+	margin-left:470px;
+}
+.artigos fieldset {
+	color:#2c82b7;
+	padding: 2px 5px;
+	font-family: 'Helvetica Neue', sans-serif, comic sans;
+	font-size: 20px;
+	margin: 30px 50px;
+	width: 300px;
+	height: 300px;
+	vertical-align: top;
+	border: 0px;
+
+}
+#guia {
+
+position: relative;
+margin-left: 8px;
+margin-top:530px;
+width: 200px;
+height: 220px;	
+}
+
+fieldset{
+position: absolute;
+color: #f47721;
+margin-top: -180px;
+margin-left: 145px;
+border: 0px;
+}
+
+#casal {
+	position: absolute;
+	margin-left:-200px;
+	margin-top:200px;
+	width: 300px;
+	height: 400px;	
+}
+#form{
+	color:#f47721;
+	margin-top: 20px;
+}
+#hr{
+	margin-top: 60px;
+width:70%;
+}
+
+
+	/*BOTÕES*/
+#bt0{
+		position: relative;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: -90px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt0:hover{
+	background-color: #23527c;
+}
+
+#bt1{
+		position: relative;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: -40px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt1:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOTÕES*/

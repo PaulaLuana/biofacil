@@ -1,0 +1,117 @@
+.all {
+	width: 1024px;
+	height:900px;
+	margin: auto; 
+	background: #ffffff;
+	box-shadow: 0 0 1px 1px rgba(140,140,140,.6); 
+	padding: 0 20px;
+	}
+		
+#h1{
+color: orange;
+font-size: 40px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+#hr{
+width:70%;
+}
+#h2{
+color:gray;
+font-size:19px;
+font-family: 'Helvetica Neue', sans-serif, comic sans;
+}
+
+#crista {
+
+margin-left:20px;
+margin-top:-20px;
+width: 270px;
+height: 320px;	
+}
+/*BOT?ES*/
+#bt0{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: -75px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt0:hover{
+	background-color: #23527c;
+}
+
+#bt1{
+		position: absolute;
+		background: #337ab7;
+		color: #fff;
+		font-size: 17px;
+		font-family: 'Helvetica Neue', sans-serif;
+	    margin-top: -25px;
+	    margin-left: 920px;
+	    width: 100px;
+		height:40px;
+		border-radius: 9px;
+}
+#bt1:hover{
+	background-color: #23527c;
+}
+
+/*FIM DOS BOT?ES*/
+
+#pergunta{
+	color:black;
+}
+#resposta{
+	color:green;
+	margin-top: -22px;
+	margin-left: 200px;
+}
+#titulo{
+	color: #2c82b7;
+}
+
+/*EXPLICAÇÃO DA IMAGEM GALINHA*/
+#legenda{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 300px;
+}
+#um {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+#dois{
+	font-family: 'Helvetica Neue', sans-serif;
+} 
+#tres{
+	font-family: 'Helvetica Neue', sans-serif;
+} 
+#quatro{
+	font-family: 'Helvetica Neue', sans-serif;
+}
+#cinco{
+color: green;
+margin-top: -19px;
+margin-left: 120px;
+}
+#seis{
+color: green;
+margin-top: -19px;
+margin-left: 95px;
+}
+#sete{
+color: green;
+margin-top: -19px;
+margin-left: 110px;
+}
+#oito{
+color: green;
+margin-top: -19px;
+margin-left: 90px;
+}
+
+/* FIM EXPLICAÇÃO DA IMAGEM GALINHA*/
